@@ -10,8 +10,7 @@ _56 | 23 | 21 | 15 | 9 | 87 | 45 | 77 | 59 | 90 | 83 | 75 | 20 | 5 | 92 | 98 | 1
 5.  _Create a method showLevelOrder to print nodes based on their depth level (print all nodes on the first level, followed by print nodes on the second level, and so on). All nodes on each level are printed from left to right._
 6.  _Create a method to display the sibling value of a certain node. Give an example of a node that has sibling and does not._
 
-## 
-**CHAPTER III: TREE & BINARY TREE**
+## CHAPTER III: TREE & BINARY TREE
 
 **3.1 Learning Objectives**
 
