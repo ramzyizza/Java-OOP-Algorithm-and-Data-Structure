@@ -1,0 +1,10 @@
+Given a row of input data with the data sequence as follows:
+
+56 | 23 | 21 | 15 | 9 | 87 | 45 | 77 | 59 | 90 | 83 | 75 | 20 | 5 | 92 | 98 | 100
+
+1. Implement a binary search tree based on the order of the data.
+2. Create a method to display the results of traversal using inorder, preorder and postorder.
+3. Create a method to calculate the sum of the values of all elements in a binary search tree.
+4. Create a method to determine the height of a binary search tree.
+5. Create a method showLevelOrder to print nodes based on their depth level (print all nodes on the first level, followed by print nodes on the second level, and so on). All nodes on each level are printed from left to right.
+6. Create a method to display the sibling value of a certain node. Give an example of a node that has sibling and does not.
